@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,4,17.39,0.05329110023698239,PRKACA; ACP5; RIOK3; TBKBP1,23,1035,2.73,0.21316440094792957
+Secreted_Factors,Secreted_Factors,Secreted_Factors,2,8.7,0.42185196034044864,BMP7; NXPH1,23,1035,1.41,0.8437039206808973
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,1,4.35,0.8084838868397974,MFSD4A,23,1035,0.63,1.0
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,16,69.57,0.8571342715059485,FAM83C; ARHGAP28; SULT1A4; BTBD16; SULT1A1; ASXL2; NMUR1; SH3D19; TC2N; ZMYM5; TPR; ATP2C2; PARP3; SYT9; FAM184B; TIGD4,23,1035,0.91,0.8571342715059485

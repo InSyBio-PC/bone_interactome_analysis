@@ -1,0 +1,7 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+SRRM1-SRRM2 cells,SRRM1-SRRM2 cells,complex_name,1,16.67,0.015574071056062582,SRRM2,6,768,64.0,0.143,0.25,0.09344
+SRm160/300 complex,SRm160/300 complex,complex_name,1,16.67,0.038555864823578624,SRRM2,6,768,25.6,0.1,0.182,0.11567
+"Spliceosome, C complex","Spliceosome, C complex",complex_name,1,16.67,0.2692954247397897,SRRM2,6,768,3.28,0.023,0.044,0.53859
+C complex spliceosome,C complex spliceosome,complex_name,1,16.67,0.4843298619148628,SRRM2,6,768,1.6,0.012,0.023,0.66954
+"Spliceosome, A complex","Spliceosome, A complex",complex_name,1,16.67,0.6129206813048867,SRRM2,6,768,1.14,0.009,0.017,0.66954
+"Spliceosome, E complex","Spliceosome, E complex",complex_name,1,16.67,0.6695419142861879,SRRM2,6,768,0.99,0.007,0.015,0.66954

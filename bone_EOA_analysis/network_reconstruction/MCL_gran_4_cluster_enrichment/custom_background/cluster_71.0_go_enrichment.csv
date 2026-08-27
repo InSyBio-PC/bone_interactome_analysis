@@ -1,0 +1,3 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+GO:0031849~olfactory receptor binding,olfactory receptor binding,"""Binding to an olfactory receptor."" [GOC:mah, GOC:nln]",GOTERM_MF_DIRECT,1,50.0,0.0362694300518136,RTP3,2,1,1,386.0,0.0362694300518136
+WP:WP5461~Primary ovarian insufficiency,Primary ovarian insufficiency,Primary ovarian insufficiency,WIKIPATHWAYS,1,50.0,0.04639019374609421,ELAVL2,2,1,9,42.88888888888889,0.04639019374609421

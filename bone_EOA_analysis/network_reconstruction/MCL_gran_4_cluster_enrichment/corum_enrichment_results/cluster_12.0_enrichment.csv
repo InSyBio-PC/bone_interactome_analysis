@@ -1,0 +1,7 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+LKB1-STRAD-MO25 complex,LKB1-STRAD-MO25 complex,complex_name,1,4.55,0.08360506074666141,STRADA,22,768,11.64,0.042,0.08,0.12541
+protein phosphatase 2A C-subunit-synapsin complex,protein phosphatase 2A C-subunit-synapsin complex,complex_name,1,4.55,0.05650736093003042,SYN1,22,768,17.45,0.043,0.083,0.12541
+MTR4-RBM7-ZCCHC8 complex,MTR4-RBM7-ZCCHC8 complex,complex_name,1,4.55,0.08360506074666141,ZCCHC8,22,768,11.64,0.042,0.08,0.12541
+TNFSF11-TNFRSF11B complex,TNFSF11-TNFRSF11B complex,complex_name,1,4.55,0.05650736093003042,TNFSF11,22,768,17.45,0.043,0.083,0.12541
+C complex spliceosome,C complex spliceosome,complex_name,1,4.55,0.914196945346339,ZCCHC8,22,768,0.44,0.01,0.02,0.98355
+"Spliceosome, E complex","Spliceosome, E complex",complex_name,1,4.55,0.9835507354193087,ZCCHC8,22,768,0.27,0.007,0.013,0.98355

@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,19,86.36,0.20838350702477657,HSP90AA4P; DCDC2C; ZCCHC8; KCNK18; SERPINB10; SYN1; SOBP; ARMC2; ZNF485; CUX1; C6orf118; ALX4; RUFY2; ZDHHC14; ZBTB18; DOC2B; KRT39; SOX13; HRC,22,1035,1.13,0.6251505210743297
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,2,9.09,0.41502109759034267,WEE2; STRADA,22,1035,1.43,0.622531646385514
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,4.55,0.758090060233323,TNFSF11,22,1035,0.74,0.758090060233323

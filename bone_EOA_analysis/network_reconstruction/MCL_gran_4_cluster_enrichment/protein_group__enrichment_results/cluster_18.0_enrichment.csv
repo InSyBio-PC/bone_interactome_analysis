@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Secreted_Factors,Secreted_Factors,Secreted_Factors,3,20.0,0.06016353104122815,PGA4; PGA3; PSG11,15,1035,3.23,0.2406541241649126
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,6.67,0.6304091633782013,AKT1,15,1035,1.05,1.0
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,1,6.67,0.6581988710496733,SNX33,15,1035,0.97,0.8775984947328977
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,10,66.67,0.8883575690899252,MIDEAS; CNTLN; LIG1; PCCA; ZNF638; PPWD1; PDE4B; RNASEL; DENND2A; TRIP11,15,1035,0.87,0.8883575690899252

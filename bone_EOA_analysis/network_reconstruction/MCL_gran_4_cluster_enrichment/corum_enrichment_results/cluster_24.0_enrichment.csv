@@ -1,0 +1,6 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+ESR2-NCOA7 complex,ESR2-NCOA7 complex,complex_name,1,11.11,0.0233152705345502,NCOA7,9,768,42.67,0.1,0.182,0.02914
+NCOA7-PPARG complex,NCOA7-PPARG complex,complex_name,1,11.11,0.0233152705345502,NCOA7,9,768,42.67,0.1,0.182,0.02914
+NCOA7-RARA complex,NCOA7-RARA complex,complex_name,1,11.11,0.0233152705345502,NCOA7,9,768,42.67,0.1,0.182,0.02914
+NCOA7-THRB complex,NCOA7-THRB complex,complex_name,1,11.11,0.0233152705345502,NCOA7,9,768,42.67,0.1,0.182,0.02914
+"Ubiquitin E3 ligase (CUL3, KLHL9, KLHL13, RBX1)","Ubiquitin E3 ligase (CUL3, KLHL9, KLHL13, RBX1)",complex_name,1,11.11,0.046146082364475156,KLHL13,9,768,21.33,0.083,0.154,0.04615

@@ -1,0 +1,5 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+REAC:R-HSA-2468052~Establishment of Sister Chromatid Cohesion,Establishment of Sister Chromatid Cohesion,Establishment of Sister Chromatid Cohesion,REACTOME_PATHWAY,2,10.0,0.03575196736624936,"ESCO1,ESCO2",20,2,2,38.6,0.03575196736624936
+WP:WP5117~Cohesin complex Cornelia de Lange syndrome,Cohesin complex Cornelia de Lange syndrome,Cohesin complex Cornelia de Lange syndrome,WIKIPATHWAYS,2,10.0,0.0371216338434479,"ESCO1,ESCO2",20,2,4,19.3,0.0371216338434479
+CORUM:240~BRCA1-CTIP-ZBRK1 repressor complex,BRCA1-CTIP-ZBRK1 repressor complex,BRCA1-CTIP-ZBRK1 repressor complex,CORUM_COMPLEX,1,5.0,0.03886010362694298,ZNF350,20,1,1,38.6,0.03886010362694298
+CORUM:6304~DDX11-Ctf18-RFC complex,DDX11-Ctf18-RFC complex,DDX11-Ctf18-RFC complex,CORUM_COMPLEX,1,5.0,0.03886010362694298,ESCO1,20,1,1,38.6,0.03886010362694298

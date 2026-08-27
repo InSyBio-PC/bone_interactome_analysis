@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+DCP1A-DCP2 Decapping complex,DCP1A-DCP2 Decapping complex,complex_name,1,50.0,0.005204938070404171,DCP2,2,768,192.0,0.333,0.5,0.01561
+Decapping complex,Decapping complex,complex_name,1,50.0,0.012986880704041722,DCP2,2,768,76.8,0.167,0.286,0.01948
+"mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)","mRNA decay complex (UPF1, UPF2, UPF3B, DCP2, XRN1, XRN2, EXOSC2, EXOSC4, EXOSC10, PARN)",complex_name,1,50.0,0.025888879834854408,DCP2,2,768,38.4,0.091,0.167,0.02589

@@ -1,0 +1,14 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+SF3A1-SF3A2-SF3A3 complex,SF3A1-SF3A2-SF3A3 complex,complex_name,1,2.56,0.1449176052130814,SF3A1,39,768,6.56,0.024,0.048,0.62798
+ADORA2A-ADORA3 complex,ADORA2A-ADORA3 complex,complex_name,1,2.56,0.09904661016949153,ADORA3,39,768,9.85,0.025,0.049,0.62798
+HPD homodimer,HPD homodimer,complex_name,1,2.56,0.05078125,HPD,39,768,19.69,0.026,0.05,0.62798
+CDC37-HSP90AA1-MAPK1-MAPK3-MAPK11 complex,CDC37-HSP90AA1-MAPK1-MAPK3-MAPK11 complex,complex_name,1,2.56,0.22993426668019257,MAPK11,39,768,3.94,0.023,0.045,0.74729
+PA700 complex,PA700 complex,complex_name,1,2.56,0.6520824691668493,PSMD12,39,768,0.98,0.017,0.034,0.99937
+PA700-20S-PA28 complex,PA700-20S-PA28 complex,complex_name,1,2.56,0.8536129279578798,PSMD12,39,768,0.55,0.014,0.027,0.99937
+C complex spliceosome,C complex spliceosome,complex_name,1,2.56,0.98780047764953,SF3A1,39,768,0.25,0.008,0.017,0.99937
+NCOR1 complex,NCOR1 complex,complex_name,1,2.56,0.4080431010679795,SF3A1,39,768,1.97,0.021,0.041,0.99937
+17S U2 snRNP,17S U2 snRNP,complex_name,1,2.56,0.8275605681312929,SF3A1,39,768,0.6,0.014,0.028,0.99937
+"Spliceosome, pre-B complex","Spliceosome, pre-B complex",complex_name,1,2.56,0.8688061142378675,SF3A1,39,768,0.52,0.013,0.026,0.99937
+"Spliceosome, B complex","Spliceosome, B complex",complex_name,1,2.56,0.9003786709429438,SF3A1,39,768,0.46,0.012,0.024,0.99937
+"Spliceosome, A complex","Spliceosome, A complex",complex_name,1,2.56,0.9981973346659576,SF3A1,39,768,0.18,0.007,0.013,0.99937
+"Spliceosome, E complex","Spliceosome, E complex",complex_name,1,2.56,0.9993725110385449,SF3A1,39,768,0.15,0.006,0.012,0.99937

@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+"GABA-A receptor (GABRA1, GABRB2, GABRG2)","GABA-A receptor (GABRA1, GABRB2, GABRG2)",complex_name,1,11.11,0.034790678583099865,GABRB2,9,768,28.44,0.091,0.167,0.03479
+"GABA-A receptor (GABRA1, GABRB2, GABRD)","GABA-A receptor (GABRA1, GABRB2, GABRD)",complex_name,1,11.11,0.034790678583099865,GABRB2,9,768,28.44,0.091,0.167,0.03479
+ABCC8-RAPGEF4  complex,ABCC8-RAPGEF4  complex,complex_name,1,11.11,0.0233152705345502,RAPGEF4,9,768,42.67,0.1,0.182,0.03479

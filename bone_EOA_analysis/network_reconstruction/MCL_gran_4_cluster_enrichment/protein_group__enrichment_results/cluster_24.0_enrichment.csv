@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,11.11,0.4382945948101801,CLCA2,9,1035,1.8,1.0
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,11.11,0.448664320553054,MAGI3,9,1035,1.74,0.672996480829581
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,7,77.78,0.6488350169046372,PTGS1; KLHL13; PAM; CLCN6; MANEAL; CLUH; NCOA7,9,1035,1.01,0.6488350169046372

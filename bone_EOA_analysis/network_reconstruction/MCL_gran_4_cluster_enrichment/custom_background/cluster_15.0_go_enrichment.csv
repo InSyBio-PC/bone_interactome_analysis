@@ -1,0 +1,4 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+CORUM:6172~Intraflagellar transport complex B,Intraflagellar transport complex B,Intraflagellar transport complex B,CORUM_COMPLEX,1,6.25,0.02763385146804831,TRAF3IP1,16,1,1,48.25,0.02763385146804831
+CORUM:6174~Intraflagellar transport complex B peripheral subcomplex,Intraflagellar transport complex B peripheral subcomplex,Intraflagellar transport complex B peripheral subcomplex,CORUM_COMPLEX,1,6.25,0.02763385146804831,TRAF3IP1,16,1,1,48.25,0.02763385146804831
+CORUM:6685~IL13RA1-TRAF3IP1 complex,IL13RA1-TRAF3IP1 complex,IL13RA1-TRAF3IP1 complex,CORUM_COMPLEX,1,6.25,0.02763385146804831,TRAF3IP1,16,1,1,48.25,0.02763385146804831

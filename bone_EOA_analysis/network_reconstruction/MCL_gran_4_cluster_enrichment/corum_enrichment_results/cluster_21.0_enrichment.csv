@@ -1,0 +1,3 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+"SNARE complex (STX16, VAMP3, VAMP4)","SNARE complex (STX16, VAMP3, VAMP4)",complex_name,1,9.09,0.042410725683463775,STX16,11,768,23.27,0.077,0.143,0.06977
+"SNARE complex (STX6, STX16, VAMP4, VTI1a, VTI1b)","SNARE complex (STX6, STX16, VAMP4, VTI1a, VTI1b)",complex_name,1,9.09,0.06976901487782697,STX16,11,768,13.96,0.067,0.125,0.06977

@@ -1,0 +1,3 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+ECM_Enzymes,ECM_Enzymes,ECM_Enzymes,1,7.14,0.026883076836823366,CTSK,14,1035,36.96,0.05376615367364673
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,13,92.86,0.1266294630124777,CASKIN2; CARD14; ZNF717; QRICH2; ARHGAP30; PWWP3A; ICE2; FANCI; KLK1; EPM2AIP1; TSPYL2; FRMPD4; PDE5A,14,1035,1.21,0.1266294630124777

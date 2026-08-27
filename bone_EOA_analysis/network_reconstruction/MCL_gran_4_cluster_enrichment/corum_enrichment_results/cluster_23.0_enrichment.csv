@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+Calcitonin-CALCR-GNAS-GNB1-GNG2 complex,Calcitonin-CALCR-GNAS-GNB1-GNG2 complex,complex_name,1,10.0,0.06359218230729462,CALCA,10,768,15.36,0.071,0.133,0.15173
+CALCA-CALCRL-Gs-RAMP1 complex,CALCA-CALCRL-Gs-RAMP1 complex,complex_name,1,10.0,0.07586489289304436,CALCA,10,768,12.8,0.067,0.125,0.15173
+"Dynein-2 complex, cytoplasmic","Dynein-2 complex, cytoplasmic",complex_name,1,10.0,0.14650998239609522,DYNLRB2,10,768,6.4,0.048,0.091,0.19535
+"Spliceosome, E complex","Spliceosome, E complex",complex_name,1,10.0,0.842887013711525,SREK1,10,768,0.6,0.007,0.014,0.84289

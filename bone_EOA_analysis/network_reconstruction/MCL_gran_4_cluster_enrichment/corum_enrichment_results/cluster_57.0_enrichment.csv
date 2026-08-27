@@ -1,0 +1,2 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+Cubilin-intrinsic factor-cobalamin complex,Cubilin-intrinsic factor-cobalamin complex,complex_name,1,50.0,0.005204938070404171,CBLIF,2,768,192.0,0.333,0.5,0.0052

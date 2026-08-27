@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,3,13.64,0.18729606527290493,PROCR; TMEM41A; TMCO6,22,1035,1.99,0.5618881958187147
+Secreted_Factors,Secreted_Factors,Secreted_Factors,2,9.09,0.39955406529492116,DHRS13; VGF,22,1035,1.47,0.5993310979423817
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,17,77.27,0.5926373820807045,SRRM5; SGCA; GTF2A1L; RBMX2; C10orf67; SH3D21; TRAV12-3; COBLL1; MED15; SMIM26; BCL9; DSPP; ATMIN; RTL5; ATXN7L2; MYOCD; ZBTB22,22,1035,1.01,0.5926373820807045

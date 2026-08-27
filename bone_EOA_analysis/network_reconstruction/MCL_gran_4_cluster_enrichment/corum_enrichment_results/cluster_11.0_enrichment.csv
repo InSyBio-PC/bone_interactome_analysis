@@ -1,0 +1,13 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+"Ternary complex (GATA4, MYOCD, SRF)","Ternary complex (GATA4, MYOCD, SRF)",complex_name,1,4.55,0.08360506074666141,MYOCD,22,768,11.64,0.042,0.08,0.33442
+beta-catenin-B-cell lymphoma 9 protein  complex,beta-catenin-B-cell lymphoma 9 protein  complex,complex_name,1,4.55,0.05650736093003042,BCL9,22,768,17.45,0.043,0.083,0.33442
+MED15-WWTR1 complex,MED15-WWTR1 complex,complex_name,1,4.55,0.05650736093003042,MED15,22,768,17.45,0.043,0.083,0.33442
+Sarcoglycan-sarcospan complex SG-SPN,Sarcoglycan-sarcospan complex SG-SPN,complex_name,1,4.55,0.1355883578345805,SGCA,22,768,6.98,0.038,0.074,0.40677
+ARC complex,ARC complex,complex_name,1,4.55,0.3559933084561014,MED15,22,768,2.33,0.028,0.054,0.53399
+ARC-L complex,ARC-L complex,complex_name,1,4.55,0.3366379160872957,MED15,22,768,2.49,0.029,0.056,0.53399
+ARC92-Mediator complex,ARC92-Mediator complex,complex_name,1,4.55,0.31672800360969744,MED15,22,768,2.69,0.029,0.057,0.53399
+CRSP-Mediator 2 complex,CRSP-Mediator 2 complex,complex_name,1,4.55,0.2535180876405542,MED15,22,768,3.49,0.032,0.063,0.53399
+"SAGA complex, GCN5-linked","SAGA complex, GCN5-linked",complex_name,1,4.55,0.42815871408550066,ATXN7L2,22,768,1.84,0.025,0.049,0.57088
+Mediator complex,Mediator complex,complex_name,1,4.55,0.5500113128781637,MED15,22,768,1.29,0.021,0.041,0.66001
+Mediator complex,Mediator complex,complex_name,1,4.55,0.6131211981330428,MED15,22,768,1.09,0.019,0.037,0.66773
+CEN complex,CEN complex,complex_name,1,4.55,0.6677275376398745,COBLL1,22,768,0.94,0.017,0.034,0.66773

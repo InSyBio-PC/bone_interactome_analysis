@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,3,15.0,0.15256686729184266,KCNJ12; KCNA7; MS4A14,20,1035,2.19,0.45770060187552797
+Secreted_Factors,Secreted_Factors,Secreted_Factors,2,10.0,0.3538835024011498,EDDM3A; TIMP4,20,1035,1.62,0.5308252536017247
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,15,75.0,0.6865277792981399,RAMACL; MYCL; GOLGA3; FBXL18; ZNF438; ESCO1; TRIT1; CFAP100; TMF1; TRAPPC14; EFCAB13; ESCO2; ZNF350; HNF1B; CCDC150,20,1035,0.98,0.68652777929814

@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,33.33,0.17443070675664282,CLEC4M,3,1035,5.39,0.5232921202699284
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,1,33.33,0.19217519770376343,TAPT1,3,1035,4.86,0.28826279655564513
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,1,33.33,0.9874955390347989,KRTAP9-2,3,1035,0.43,0.9874955390347989

@@ -1,0 +1,14 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+CORUM:6521~Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,Akt-PHLPP1-PHLPP2-FANCI-FANCD2-USP1-UAF1 complex,CORUM_COMPLEX,1,100.0,0.004138338752586401,FANCI,1,1,7,483.2857142857143,0.004138338752586401
+WP:WP12~Osteoclast signaling,Osteoclast signaling,Osteoclast signaling,WIKIPATHWAYS,1,20.0,0.045545586300703995,CTSK,5,1,16,109.4,0.045545586300703995
+WP:WP2363~Gastric cancer network 2,Gastric cancer network 2,Gastric cancer network 2,WIKIPATHWAYS,1,20.0,0.045545586300703995,FANCI,5,1,31,56.46451612903226,0.045545586300703995
+WP:WP272~Blood clotting cascade,Blood clotting cascade,Blood clotting cascade,WIKIPATHWAYS,1,20.0,0.045545586300703995,KLK1,5,1,22,79.56363636363636,0.045545586300703995
+WP:WP2864~Apoptosis related network due to altered Notch3 in ovarian cancer,Apoptosis related network due to altered Notch3 in ovarian cancer,Apoptosis related network due to altered Notch3 in ovarian cancer,WIKIPATHWAYS,1,20.0,0.045545586300703995,CARD14,5,1,53,33.026415094339626,0.045545586300703995
+WP:WP4222~Phosphodiesterases in neuronal function,Phosphodiesterases in neuronal function,Phosphodiesterases in neuronal function,WIKIPATHWAYS,1,20.0,0.045545586300703995,PDE5A,5,1,53,33.026415094339626,0.045545586300703995
+WP:WP4241~Type 2 papillary renal cell carcinoma,Type 2 papillary renal cell carcinoma,Type 2 papillary renal cell carcinoma,WIKIPATHWAYS,1,20.0,0.045545586300703995,CTSK,5,1,34,51.48235294117647,0.045545586300703995
+WP:WP4879~Overlap between signal transduction pathways contributing to LMNA laminopathies,Overlap between signal transduction pathways contributing to LMNA laminopathies,Overlap between signal transduction pathways contributing to LMNA laminopathies,WIKIPATHWAYS,1,20.0,0.045545586300703995,CTSK,5,1,57,30.708771929824564,0.045545586300703995
+WP:WP4969~RAS and bradykinin pathways in COVID 19,RAS and bradykinin pathways in COVID 19,RAS and bradykinin pathways in COVID 19,WIKIPATHWAYS,1,20.0,0.045545586300703995,KLK1,5,1,29,60.35862068965518,0.045545586300703995
+WP:WP5294~Sildenafil treatment,Sildenafil treatment,Sildenafil treatment,WIKIPATHWAYS,1,20.0,0.045545586300703995,PDE5A,5,1,22,79.56363636363636,0.045545586300703995
+WP:WP5347~IL26 signaling,IL26 signaling,IL26 signaling,WIKIPATHWAYS,1,20.0,0.045545586300703995,CTSK,5,1,46,38.05217391304348,0.045545586300703995
+WP:WP5407~15q11q13 copy number variation,15q11q13 copy number variation,15q11q13 copy number variation,WIKIPATHWAYS,1,20.0,0.045545586300703995,FANCI,5,1,57,30.708771929824564,0.045545586300703995
+WP:WP5465~Fanconi anemia,Fanconi anemia,Fanconi anemia,WIKIPATHWAYS,1,20.0,0.045545586300703995,FANCI,5,1,47,37.242553191489364,0.045545586300703995

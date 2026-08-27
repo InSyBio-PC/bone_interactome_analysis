@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,2,25.0,0.087412846588576,SRC; ACOX3,8,1035,3.92,0.262238539765728
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,1,12.5,0.43477185235790705,SPEM3,8,1035,1.82,0.6521577785368606
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,5,62.5,0.9093710474206114,ZC3H13; TTC39B; DDIAS; TTC7A; DLGAP1,8,1035,0.81,0.9093710474206113

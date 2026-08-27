@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Immunoglobulins,Immunoglobulins,Immunoglobulins,3,18.75,0.0029480100918435844,IGLV1-51; IGKV3D-11; IGKV3D-15,16,1035,9.7,0.011792040367374338
+Matricellular,Matricellular,Matricellular,1,6.25,0.0750822958830693,SOST,16,1035,12.94,0.1501645917661386
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,6.25,0.6426377976706976,ODAPH,16,1035,1.01,0.8568503968942635
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,11,68.75,0.8546698141708565,TCFL5; SMTNL1; CCDC166; AMDHD2; SPZ1; ZSCAN5C; TRAF3IP1; CREB3L4; RANBP3; UNCX; COX6B2,16,1035,0.9,0.8546698141708565

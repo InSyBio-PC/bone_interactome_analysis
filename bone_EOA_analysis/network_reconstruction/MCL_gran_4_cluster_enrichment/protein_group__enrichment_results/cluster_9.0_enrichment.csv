@@ -1,0 +1,6 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Immunoglobulins,Immunoglobulins,Immunoglobulins,6,25.0,2.5074924404044064e-06,IGHV7-81; IGHV1-45; IGHV4-61; IGHV4-38-2; IGHV4-59; IGHV4-39,24,1035,12.94,1.2537462202022033e-05
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,2,8.33,0.49944652242219767,TMEM61; ARMH4,24,1035,1.21,1.0
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,4.17,0.7877057139294209,BMP2,24,1035,0.67,1.0
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,4.17,0.7980757602346809,APOBEC3A,24,1035,0.65,0.9975947002933511
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,14,58.33,0.9883386113610793,GOLGA6D; GOLGA6C; MEIS3P2; RPUSD1; GOLGA6B; IZUMO1; CCDC7; RRBP1; SAMD11; TRGV5; ZMYND12; TPMT; TRGV3; STARD3NL,24,1035,0.76,0.9883386113610794

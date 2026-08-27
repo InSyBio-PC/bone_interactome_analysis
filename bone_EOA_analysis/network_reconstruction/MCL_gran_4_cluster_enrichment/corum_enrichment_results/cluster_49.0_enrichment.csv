@@ -1,0 +1,27 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+Ku antigen-NARG1 complex,Ku antigen-NARG1 complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+AR-XRCC5-XRCC6 complex,AR-XRCC5-XRCC6 complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+DTNBP1 (splice variant 1A)-PRKDC-XRCC5-XRCC6 complex,DTNBP1 (splice variant 1A)-PRKDC-XRCC5-XRCC6 complex,complex_name,1,50.0,0.010396295089091697,XRCC5,2,768,96.0,0.2,0.333,0.01931
+DTNBP1(splice variant 1B)-PRKDC-XRCC5-XRCC6 complex,DTNBP1(splice variant 1B)-PRKDC-XRCC5-XRCC6 complex,complex_name,1,50.0,0.010396295089091697,XRCC5,2,768,96.0,0.2,0.333,0.01931
+DEAF1- complex,DEAF1- complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+WRN-Ku70-Ku80-PARP1 complex,WRN-Ku70-Ku80-PARP1 complex,complex_name,1,50.0,0.010396295089091697,XRCC5,2,768,96.0,0.2,0.333,0.01931
+MGC1-DNA-PKcs-Ku complex,MGC1-DNA-PKcs-Ku complex,complex_name,1,50.0,0.010396295089091697,XRCC5,2,768,96.0,0.2,0.333,0.01931
+WRN-XRCC6-XRCC5 complex,WRN-XRCC6-XRCC5 complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+HMGA1-PDX1 complex,HMGA1-PDX1 complex,complex_name,1,50.0,0.005204938070404171,PDX1,2,768,192.0,0.333,0.5,0.01931
+PCNA-KU antigen complex,PCNA-KU antigen complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+HDLBP-PRKDC-XRCC5-XRCC6 complex,HDLBP-PRKDC-XRCC5-XRCC6 complex,complex_name,1,50.0,0.010396295089091697,XRCC5,2,768,96.0,0.2,0.333,0.01931
+TRF2-Ku complex,TRF2-Ku complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+DNA-PK-Ku complex,DNA-PK-Ku complex,complex_name,1,50.0,0.0078023142112125165,XRCC5,2,768,128.0,0.25,0.4,0.01931
+Ku antigen complex,Ku antigen complex,complex_name,1,50.0,0.005204938070404171,XRCC5,2,768,192.0,0.333,0.5,0.01931
+LIG3-LIG4-PARP1-PARP3(short)-XRCC5-XRCC6 complex,LIG3-LIG4-PARP1-PARP3(short)-XRCC5-XRCC6 complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+TERF2-RAP1 complex,TERF2-RAP1 complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex,DHX9-ADAR-vigilin-DNA-PK-Ku antigen complex,complex_name,1,50.0,0.015574071056062582,XRCC5,2,768,64.0,0.143,0.25,0.02146
+Rap1 complex,Rap1 complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+53BP1-containing complex,53BP1-containing complex,complex_name,1,50.0,0.012986880704041722,XRCC5,2,768,76.8,0.167,0.286,0.02146
+LIG3-LIG4-PARP1-PARP3(long)-XRCC5-XRCC6 complex,LIG3-LIG4-PARP1-PARP3(long)-XRCC5-XRCC6 complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+DNA double-strand break end-joining complex,DNA double-strand break end-joining complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+TRBP-DNA-PK complex,TRBP-DNA-PK complex,complex_name,1,50.0,0.01815786614515428,XRCC5,2,768,54.86,0.125,0.222,0.02146
+PAXX complex,PAXX complex,complex_name,1,50.0,0.020738265971316817,XRCC5,2,768,48.0,0.111,0.2,0.02247
+DNA-PK-Ku-eIF2-NF90-NF45 complex,DNA-PK-Ku-eIF2-NF90-NF45 complex,complex_name,1,50.0,0.020738265971316817,XRCC5,2,768,48.0,0.111,0.2,0.02247
+HEXIM1-DNA-PK-paraspeckle components-ribonucleoprotein complex,HEXIM1-DNA-PK-paraspeckle components-ribonucleoprotein complex,complex_name,1,50.0,0.0233152705345502,XRCC5,2,768,42.67,0.1,0.182,0.02425
+H2A.Z histone-exchange complex p400/TIP60,H2A.Z histone-exchange complex p400/TIP60,complex_name,1,50.0,0.06912076271186442,XRCC5,2,768,14.22,0.036,0.069,0.06912

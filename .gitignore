@@ -1,0 +1,47 @@
+# ============================================================
+# Large / local datasets
+# ============================================================
+
+bone_EOA_analysis/Datasets/duplicate_datasets/
+bone_EOA_analysis/Datasets/feature_calculated/
+bone_EOA_analysis/Datasets/intermediate/
+
+bone_EOA_analysis/Datasets/reference/stringdb_ppis_curated.csv
+
+bone_EOA_analysis/Datasets/results/bone_ppis_EOA_all_predictions_mapped.csv
+
+# Large Cytoscape session
+bone_EOA_analysis/network_reconstruction/bone_network.cys
+
+# ============================================================
+# Documentation files
+# ============================================================
+
+*.doc
+*.docx
+
+# ============================================================
+# Local audit / organization outputs
+# ============================================================
+
+PROJECT_FILE_INVENTORY.csv
+STEP2_LARGE_DATASET_REPORT.csv
+DATASET_ORGANIZATION_MANIFEST_*.csv
+*SCAN*.csv
+*scan*.csv
+
+# ============================================================
+# Python / Jupyter
+# ============================================================
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ============================================================
+# OS / editor
+# ============================================================
+
+.DS_Store
+Thumbs.db
+.vscode/

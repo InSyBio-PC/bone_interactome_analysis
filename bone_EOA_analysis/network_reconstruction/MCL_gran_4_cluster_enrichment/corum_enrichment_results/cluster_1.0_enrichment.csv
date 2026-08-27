@@ -1,0 +1,9 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+WNK1-SPAK complex,WNK1-SPAK complex,complex_name,1,1.82,0.13818720121686223,STK39,55,768,6.98,0.018,0.035,0.27637
+CCNQ-CDK10 complex,CCNQ-CDK10 complex,complex_name,1,1.82,0.13818720121686223,CCNQ,55,768,6.98,0.018,0.035,0.27637
+KPNA6-KPNB1 complex,KPNA6-KPNB1 complex,complex_name,1,1.82,0.13818720121686223,KPNA6,55,768,6.98,0.018,0.035,0.27637
+TNFSF11-TNFRSF11B complex,TNFSF11-TNFRSF11B complex,complex_name,1,1.82,0.13818720121686223,TNFRSF11B,55,768,6.98,0.018,0.035,0.27637
+CSE1L-KPNA6-RAN complex,CSE1L-KPNA6-RAN complex,complex_name,1,1.82,0.20006671026787082,KPNA6,55,768,4.65,0.018,0.034,0.32011
+5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,complex_name,1,1.82,0.4895275692631633,BDP1,55,768,1.55,0.016,0.031,0.6527
+"55S ribosome, mitochondrial","55S ribosome, mitochondrial",complex_name,1,1.82,0.9978027686939542,MRPL28,55,768,0.18,0.008,0.015,0.9978
+"39S ribosomal subunit, mitochondrial","39S ribosomal subunit, mitochondrial",complex_name,1,1.82,0.9749077178457117,MRPL28,55,768,0.29,0.01,0.019,0.9978

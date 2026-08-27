@@ -1,0 +1,6 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Structural_ECM_proteins,Structural_ECM_proteins,Structural_ECM_proteins,1,9.09,0.021153253160653716,VTN,11,1035,47.05,0.10576626580326859
+Matricellular,Matricellular,Matricellular,1,9.09,0.05212116226171438,THBS4,11,1035,18.82,0.13030290565428596
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,2,18.18,0.17102228792648208,RPS6KC1; STON1,11,1035,2.65,0.2850371465441368
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,9.09,0.5062173380871059,LIPK,11,1035,1.47,0.6327716726088823
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,6,54.55,0.9761291647745279,FGD5; PPFIA4; USP35; JMY; NHS; ABCB7,11,1035,0.71,0.9761291647745279

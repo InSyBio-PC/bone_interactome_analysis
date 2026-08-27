@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Matricellular,Matricellular,Matricellular,1,6.25,0.0750822958830693,SPP1,16,1035,12.94,0.3003291835322772
+Immunoglobulins,Immunoglobulins,Immunoglobulins,1,6.25,0.2698555570932721,IGLV8-61,16,1035,3.23,0.5397111141865442
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,13,81.25,0.46780762907072226,RFESD; CC2D1B; POLR3GL; PRR5; ANKRD22; GRAMD2B; SALL2; ZNF358; GARIN2; GFY; TRBV10-3; LACC1; PABPC1L2B,16,1035,1.06,0.6237435054276297
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,6.25,0.6426377976706976,LCN15,16,1035,1.01,0.6426377976706976

@@ -1,0 +1,3 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,50.0,0.12352759790317608,PTPN18,2,1035,7.84,0.24705519580635216
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,1,50.0,0.9459535222717461,ARF1,2,1035,0.65,0.9459535222717461

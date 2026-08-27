@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Serum_Proteins,Serum_Proteins,Serum_Proteins,1,9.09,0.04189893950179171,PROS1,11,1035,23.52,0.12569681850537512
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,2,18.18,0.15196063797520112,PPP2R3C; DBR1,11,1035,2.85,0.2279409569628017
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,8,72.73,0.7601707961381032,PGR; ZNF582; RASGEF1B; CPSF3; SESN1; KIF27; NT5DC4; HMGCS2,11,1035,0.95,0.7601707961381031

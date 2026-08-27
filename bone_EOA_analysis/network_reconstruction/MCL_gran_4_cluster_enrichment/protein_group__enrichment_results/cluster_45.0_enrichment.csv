@@ -1,0 +1,3 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,50.0,0.12352759790317608,MAP4K5,2,1035,7.84,0.24705519580635216
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,1,50.0,0.13255403246152553,PPM1B,2,1035,7.29,0.13255403246152553

@@ -1,0 +1,5 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+GO:0001602~pancreatic polypeptide receptor activity,pancreatic polypeptide receptor activity,"""Combining with pancreatic polypeptide PP to initiate a change in cell activity."" [PMID:9315606]",GOTERM_MF_DIRECT,2,4.25531914893617,0.007509981109835052,"NPY4R,NPY4R2",47,2,4,215.38297872340425,0.007509981109835052
+CORUM:1123~WNK1-SPAK complex,WNK1-SPAK complex,WNK1-SPAK complex,CORUM_COMPLEX,1,33.33333333333333,0.008865246677259297,STK39,3,1,2,563.8333333333333,0.008865246677259297
+CORUM:1114~5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,5S-DNA-TFIIIA-TFIIIC2-TFIIIB subcomplex,CORUM_COMPLEX,1,33.33333333333333,0.01990553986326471,BDP1,3,1,9,125.29629629629629,0.01990553986326471
+GO:0004983~neuropeptide Y receptor activity,neuropeptide Y receptor activity,"""Combining with neuropeptide Y to initiate a change in cell activity."" [PMID:9315606]",GOTERM_MF_DIRECT,2,4.25531914893617,0.027913114428031658,"NPY4R,NPY4R2",47,2,10,86.1531914893617,0.027913114428031658

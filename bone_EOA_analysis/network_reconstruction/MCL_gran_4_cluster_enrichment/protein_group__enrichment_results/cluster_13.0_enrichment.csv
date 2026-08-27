@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,3,14.29,0.1696652197477137,BEAN1; CXorf66; SHISAL2B,21,1035,2.08,0.508995659243141
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,17,80.95,0.4372361511842943,RELA; OR51A4; EGR3; OR1M1; OR6C76; OR10D3; OR14C36; PJVK; OR7G2; OR7A2P; RNF13; SCRT2; OR10T2; OR10G6; OR51I2; OR6C1; CCSER1,21,1035,1.06,0.6558542267764415
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,4.76,0.7417929695543047,C1QL2,21,1035,0.77,0.7417929695543047

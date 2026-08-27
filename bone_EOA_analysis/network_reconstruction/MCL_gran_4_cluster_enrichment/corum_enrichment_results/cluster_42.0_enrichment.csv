@@ -1,0 +1,2 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+GSR homodimer,GSR homodimer,complex_name,1,50.0,0.0026041666666666665,GSR,2,768,384.0,0.5,0.667,0.0026

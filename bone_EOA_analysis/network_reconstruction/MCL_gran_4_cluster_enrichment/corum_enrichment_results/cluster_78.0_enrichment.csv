@@ -1,0 +1,3 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+NCOA1-NR3C2-UBE2I complex,NCOA1-NR3C2-UBE2I complex,complex_name,1,50.0,0.0078023142112125165,UBE2I,2,768,128.0,0.25,0.4,0.0078
+PIAS1-SUMO1-UBC9 complex,PIAS1-SUMO1-UBC9 complex,complex_name,1,50.0,0.0078023142112125165,UBE2I,2,768,128.0,0.25,0.4,0.0078

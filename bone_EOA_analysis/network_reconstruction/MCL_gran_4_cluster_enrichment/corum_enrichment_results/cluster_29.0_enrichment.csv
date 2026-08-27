@@ -1,0 +1,18 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+SMAD3-SMAD4-cJUN complex,SMAD3-SMAD4-cJUN complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+AR-JUN complex,AR-JUN complex,complex_name,1,16.67,0.015574071056062582,JUN,6,768,64.0,0.143,0.25,0.03599
+JUN-FBW7-PRR7 complex,JUN-FBW7-PRR7 complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+c-Fos-c-Jun-SAF-1 complex,c-Fos-c-Jun-SAF-1 complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+c-Jun-ATF3 complex,c-Jun-ATF3 complex,complex_name,1,16.67,0.015574071056062582,JUN,6,768,64.0,0.143,0.25,0.03599
+AR-ATF2-JUN complex,AR-ATF2-JUN complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+ETS2-FOS-JUN complex,ETS2-FOS-JUN complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+FOS-JUN-THRA complex,FOS-JUN-THRA complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+NFAT-JUN-FOS DNA-protein complex,NFAT-JUN-FOS DNA-protein complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+JUN-TCF4-CTNNB1 complex,JUN-TCF4-CTNNB1 complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+ERG-JUN-FOS DNA-protein complex,ERG-JUN-FOS DNA-protein complex,complex_name,1,16.67,0.023284979115675668,JUN,6,768,42.67,0.125,0.222,0.03599
+SMAD3-SMAD4-cJun-cFos complex,SMAD3-SMAD4-cJun-cFos complex,complex_name,1,16.67,0.030945489083395856,JUN,6,768,32.0,0.111,0.2,0.04384
+LSm2-8 complex,LSm2-8 complex,complex_name,1,16.67,0.053627263894104056,LSM6,6,768,18.29,0.083,0.154,0.06512
+LSm1-7 complex,LSm1-7 complex,complex_name,1,16.67,0.053627263894104056,LSM6,6,768,18.29,0.083,0.154,0.06512
+"TFIID complex, B-cell specific","TFIID complex, B-cell specific",complex_name,1,16.67,0.09044668405546923,TAF4B,6,768,10.67,0.059,0.111,0.10251
+"Spliceosome, pre-B complex","Spliceosome, pre-B complex",complex_name,1,16.67,0.2632398619613901,LSM6,6,768,3.37,0.023,0.045,0.27969
+"Spliceosome, B complex","Spliceosome, B complex",complex_name,1,16.67,0.2931046196759167,LSM6,6,768,2.98,0.021,0.041,0.2931

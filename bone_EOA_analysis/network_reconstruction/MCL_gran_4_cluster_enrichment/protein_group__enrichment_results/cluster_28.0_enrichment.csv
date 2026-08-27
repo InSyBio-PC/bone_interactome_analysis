@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,12.5,0.40096422520254943,ZPBP,8,1035,2.02,1.0
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,12.5,0.41079943518000706,GSK3B,8,1035,1.96,0.6161991527700106
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,6,75.0,0.7211399511561685,ZNF710; ZNF175; ANKRD20A8P; ANKRD20A2P; PCDHB4; ZNF280D,8,1035,0.98,0.7211399511561685

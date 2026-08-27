@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+ECM_Enzymes,ECM_Enzymes,ECM_Enzymes,1,11.11,0.017324026574720378,CTSC,9,1035,57.5,0.06929610629888151
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,3,33.33,0.01926628556739359,RAPGEF4; SLITRK3; IL1RAPL2,9,1035,4.86,0.03853257113478718
+Collagens,Collagens,Collagens,1,11.11,0.05947259597170587,COL5A1,9,1035,16.43,0.07929679462894117
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,4,44.44,0.9933419108612682,DEGS2; CERS4; SEMA4G; GABRB2,9,1035,0.58,0.9933419108612682

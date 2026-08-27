@@ -1,0 +1,2 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+CLEC4M-VWF complex,CLEC4M-VWF complex,complex_name,1,33.33,0.0078023142112125165,CLEC4M,3,768,128.0,0.25,0.4,0.0078

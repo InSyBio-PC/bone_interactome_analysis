@@ -1,0 +1,6 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+BRCA1-CTIP-ZBRK1 repressor complex,BRCA1-CTIP-ZBRK1 repressor complex,complex_name,1,5.0,0.07620485913718977,ZNF350,20,768,12.8,0.045,0.087,0.12701
+AR-TMF1 complex,AR-TMF1 complex,complex_name,1,5.0,0.0514382333767927,TMF1,20,768,19.2,0.048,0.091,0.12701
+ADRB1-GOLGA3 complex,ADRB1-GOLGA3 complex,complex_name,1,5.0,0.0514382333767927,GOLGA3,20,768,19.2,0.048,0.091,0.12701
+DDX11-Ctf18-RFC complex,DDX11-Ctf18-RFC complex,complex_name,1,5.0,0.14687166997597587,ESCO1,20,768,6.4,0.04,0.077,0.18359
+RAB3IP-TRAPP II complex,RAB3IP-TRAPP II complex,complex_name,1,5.0,0.27309709654079184,TRAPPC14,20,768,3.2,0.032,0.062,0.2731

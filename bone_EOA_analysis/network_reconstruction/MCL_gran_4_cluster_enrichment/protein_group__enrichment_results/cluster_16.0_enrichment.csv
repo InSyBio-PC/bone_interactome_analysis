@@ -1,0 +1,5 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,FDR
+Membrane_Proteins,Membrane_Proteins,Membrane_Proteins,3,18.75,0.09094656400997467,REELD1; VWA1; RNF112,16,1035,2.73,0.36378625603989867
+Secreted_Factors,Secreted_Factors,Secreted_Factors,1,6.25,0.6426377976706976,WNT9A,16,1035,1.01,1.0
+Cellular Enzymes,Cellular Enzymes,Cellular Enzymes,1,6.25,0.6543238645713767,GCKR,16,1035,0.98,0.8724318194285022
+Other_Cellular_Proteins,Other_Cellular_Proteins,Other_Cellular_Proteins,11,68.75,0.8546698141708565,BCL2; NPEPL1; CDY2B; SLC48A1; CDY1B; LRRC71; DCTN1; FAM86B2; ZNF219; CCT8L1P; RGL4,16,1035,0.9,0.8546698141708565

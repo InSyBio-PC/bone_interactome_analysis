@@ -1,0 +1,6 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+RHAMM-beta-catenin complex,RHAMM-beta-catenin complex,complex_name,1,12.5,0.020738265971316817,HMMR,8,768,48.0,0.111,0.2,0.03456
+SEPTIN3A-SEPTIN3B-SEPTIN5 complex,SEPTIN3A-SEPTIN3B-SEPTIN5 complex,complex_name,1,12.5,0.020738265971316817,SEPTIN5,8,768,48.0,0.111,0.2,0.03456
+Microaposome complex,Microaposome complex,complex_name,1,12.5,0.020738265971316817,CASP3,8,768,48.0,0.111,0.2,0.03456
+CD44-ERK1-ERK2-RHAMM complex,CD44-ERK1-ERK2-RHAMM complex,complex_name,1,12.5,0.041099236239419475,HMMR,8,768,24.0,0.091,0.167,0.0411
+Aposome complex,Aposome complex,complex_name,1,12.5,0.041099236239419475,CASP3,8,768,24.0,0.091,0.167,0.0411

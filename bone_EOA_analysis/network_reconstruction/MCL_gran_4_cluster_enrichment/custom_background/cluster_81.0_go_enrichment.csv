@@ -1,0 +1,14 @@
+Term,description,description,Category,Count,%,PValue,Genes,List Total,Count,Pop Total,Fold Enrichment,FDR
+CORUM:6404~MST2-SAV1 complex,MST2-SAV1 complex,MST2-SAV1 complex,CORUM_COMPLEX,1,50.0,0.0034542314335060573,STK3,2,1,1,386.0,0.0034542314335060573
+CORUM:6621~NEK2A-SAV1-STK3 complex,NEK2A-SAV1-STK3 complex,NEK2A-SAV1-STK3 complex,CORUM_COMPLEX,1,50.0,0.0034542314335060573,STK3,2,1,1,386.0,0.0034542314335060573
+CORUM:6716~DLG5-MST1-MST2 complex,DLG5-MST1-MST2 complex,DLG5-MST1-MST2 complex,CORUM_COMPLEX,1,50.0,0.0034542314335060573,STK3,2,1,1,386.0,0.0034542314335060573
+WP:WP4533~Transcription co factors SKI and SKIL protein partners,Transcription co factors SKI and SKIL protein partners,Transcription co factors SKI and SKIL protein partners,WIKIPATHWAYS,1,50.0,0.009499136442141658,STK3,2,1,1,386.0,0.009499136442141658
+WP:WP4537~Hippo YAP signaling,Hippo YAP signaling,Hippo YAP signaling,WIKIPATHWAYS,1,50.0,0.009499136442141658,STK3,2,1,1,386.0,0.009499136442141658
+WP:WP5495~Targeting YAP in pancreatic ductal adenocarcinoma PDAC ,Targeting YAP in pancreatic ductal adenocarcinoma PDAC ,Targeting YAP in pancreatic ductal adenocarcinoma PDAC ,WIKIPATHWAYS,1,50.0,0.009499136442141658,STK3,2,1,1,386.0,0.009499136442141658
+KEGG:04392~Hippo signaling pathway - multiple species,Hippo signaling pathway - multiple species,Hippo signaling pathway - multiple species,KEGG_PATHWAY,1,50.0,0.010362694300518172,STK3,2,1,1,386.0,0.010362694300518172
+WP:WP4542~Leukocyte intrinsic Hippo pathway functions,Leukocyte intrinsic Hippo pathway functions,Leukocyte intrinsic Hippo pathway functions,WIKIPATHWAYS,1,50.0,0.014239464258113177,STK3,2,1,2,193.0,0.014239464258113177
+REAC:R-HSA-2028269~Signaling by Hippo,Signaling by Hippo,Signaling by Hippo,REACTOME_PATHWAY,1,50.0,0.015533961008850738,STK3,2,1,2,193.0,0.015533961008850738
+WP:WP3959~DNA IR double strand breaks and cellular response via ATM,DNA IR double strand breaks and cellular response via ATM,DNA IR double strand breaks and cellular response via ATM,WIKIPATHWAYS,1,50.0,0.016252552511902704,STK3,2,1,4,96.5,0.016252552511902704
+WP:WP4534~Mechanoregulation and pathology of YAP TAZ via Hippo and non Hippo mechanisms,Mechanoregulation and pathology of YAP TAZ via Hippo and non Hippo mechanisms,Mechanoregulation and pathology of YAP TAZ via Hippo and non Hippo mechanisms,WIKIPATHWAYS,1,50.0,0.016252552511902704,STK3,2,1,3,128.66666666666666,0.016252552511902704
+WP:WP4540~Hippo signaling regulation,Hippo signaling regulation,Hippo signaling regulation,WIKIPATHWAYS,1,50.0,0.016252552511902704,STK3,2,1,4,96.5,0.016252552511902704
+WP:WP4541~Hippo Merlin signaling dysregulation,Hippo Merlin signaling dysregulation,Hippo Merlin signaling dysregulation,WIKIPATHWAYS,1,50.0,0.017764678803518757,STK3,2,1,5,77.2,0.017764678803518757

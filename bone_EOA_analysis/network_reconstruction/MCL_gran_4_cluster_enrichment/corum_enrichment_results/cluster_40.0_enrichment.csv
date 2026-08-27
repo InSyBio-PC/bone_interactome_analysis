@@ -1,0 +1,4 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+AURKA-INPP5E complex,AURKA-INPP5E complex,complex_name,1,33.33,0.0078023142112125165,INPP5E,3,768,128.0,0.25,0.4,0.01169
+INPP5E-PDE6D-RPGR complex,INPP5E-PDE6D-RPGR complex,complex_name,1,33.33,0.011688205931011945,INPP5E,3,768,85.33,0.2,0.333,0.01169
+INPP5E-RPGR complex,INPP5E-RPGR complex,complex_name,1,33.33,0.0078023142112125165,INPP5E,3,768,128.0,0.25,0.4,0.01169

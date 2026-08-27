@@ -1,0 +1,7 @@
+Term,description,Category,Count,%,PValue,Genes,List Total,Pop Total,Fold Enrichment,Jaccard,F-measure,FDR
+ESR1-MDM2-TP53 complex,ESR1-MDM2-TP53 complex,complex_name,1,20.0,0.019429525085869124,ESR1,5,768,51.2,0.143,0.25,0.02914
+CTNNB1-ESR1 complex,CTNNB1-ESR1 complex,complex_name,1,20.0,0.012986880704041722,ESR1,5,768,76.8,0.167,0.286,0.02914
+CAV1-ESR1-VDAC1 complex,CAV1-ESR1-VDAC1 complex,complex_name,1,20.0,0.019429525085869124,ESR1,5,768,51.2,0.143,0.25,0.02914
+ESR1-KDM3A-TNK2 complex,ESR1-KDM3A-TNK2 complex,complex_name,1,20.0,0.019429525085869124,ESR1,5,768,51.2,0.143,0.25,0.02914
+BCAR1-ESR1-PIK3R1-SRC complex,BCAR1-ESR1-PIK3R1-SRC complex,complex_name,1,20.0,0.025838482438249065,ESR1,5,768,38.4,0.125,0.222,0.03101
+TFTC-type histone acetyl transferase complex,TFTC-type histone acetyl transferase complex,complex_name,1,20.0,0.06976901487782697,ESR1,5,768,13.96,0.067,0.125,0.06977
