@@ -1,6 +1,9 @@
 # Bone Interactome Analysis
 
-Computational reconstruction and analysis of a **bone degeneration-related protein–protein interaction (PPI) network**, combining machine-learning-based interaction prediction, interaction-database mapping, network reconstruction, clustering, network analytics, and functional enrichment.
+This repository contains the necessary codes and datasets for replicating the computational reconstruction and analysis of a **bone degeneration-related protein–protein interaction (PPI) network**, and a subsequent Molecular Dynamics analysis of selected targets. The whole analysis workflow is summarized on the figure below.
+
+![bone_ppi_workflow](image.png) 
+* Workflow Figure : Overview of the bone degeneration-related (BDP) interactome analysis workflow. Overall workflow for EOA-based prediction of BDP protein-protein interactions (PPIs), network reconstruction, candidate PPI prioritization, and molecular dynamics (MD) validation. A curated set of BDPs was combined with 20,421 reviewed human UniProt proteins to generate 877,501 candidate PPIs, which were classified by the EOA-based ML pipeline into predicted positive and negative interactions. Positive (predicted interacting) PPIs were filtered based on classifier probability and predicted affinity, yielding 4,363 PPIs for network reconstruction, clustering, and per-cluster functional analysis. For the structural analysis, TRAF6 was selected as a central node, and representative high-scoring, low-scoring, and non-interacting TRAF6-involving PPIs were selected for docking and MD simulations. Comparative analysis of the selected interactions prioritized the TRAF6-ANXA3 PPIs for extended MD characterization.*
 
 > [!NOTE]
 > This repository is organized into two main parts:
@@ -11,9 +14,7 @@ Computational reconstruction and analysis of a **bone degeneration-related prote
 > **Part 2 — Molecular Dynamics Analysis**
 
 > [!IMPORTANT]
-> Several large datasets and the Cytoscape project file are intentionally excluded from GitHub because of their size.
->
-> These files are provided separately through Google Drive. See [Large Files and Datasets](#large-files-and-datasets).
+> Several large datasets and the Cytoscape project file are intentionally excluded from GitHub and are provided separately through Google Drive. See [Large Files and Datasets](#large-files-and-datasets).
 
 ---
 
@@ -50,22 +51,6 @@ Computational reconstruction and analysis of a **bone degeneration-related prote
 ## Part 1 Overview
 
 Part 1 reconstructs a bone degeneration-related protein interaction network starting from a curated set of **44 Osteoporosis-related Proteins (OPs)**.
-
-The workflow combines:
-
-- generation of candidate binary PPIs;
-- calculation of PPI interaction features;
-- EOA-based binary classification;
-- EOA-based interaction-affinity regression;
-- confidence-based filtering;
-- expansion to interactions among OP interactors;
-- STRING DB and iRefIndex mapping;
-- UniProt-to-gene mapping;
-- OP annotation;
-- Cytoscape network reconstruction;
-- network clustering;
-- network-topology analysis; and
-- functional enrichment analysis.
 
 ### Part 1 at a Glance
 
@@ -238,41 +223,13 @@ Sequence_similarity
 #### Amino-Acid Composition
 
 ```text
-A %
-L %
-F %
-I %
-M %
-V %
-S %
-P %
-T %
-Y %
-H %
-Q %
-N %
-K %
-D %
-E %
-C %
-W %
-R %
-G %
+A %, L %, F %, I %, M %, V %, S %, P %, T %, Y %, H %, Q %, N %, K %, D %, E %, C %, W %, R %, G %
 ```
 
 #### Physicochemical Differences
 
 ```text
-MW dif
-Aromaticity dif
-Instability dif
-helix_fraction_dif
-turn_fraction_dif
-sheet_fraction_dif
-cys_reduced_dif
-cys_residues_dif
-gravy_dif
-ph7_charge_dif
+MW dif, Aromaticity dif, Instability dif, helix_fraction_dif, turn_fraction_dif, sheet_fraction_dif, cys_reduced_dif, cys_residues_dif, gravy_dif, ph7_charge_dif
 ```
 
 #### Gene Ontology Similarity
@@ -292,18 +249,7 @@ representing similarity in:
 #### Additional Interaction-Related Features
 
 ```text
-pfam_interaction
-Subcellular Co-localization?
-GSE227375_spearman
-GSE228702_spearman
-Homologous in Mouse
-Homologous in Drosophila
-Homologous in Yeast
-Homologous in Ecoli
-Exists in MINT?
-Exists in DIP?
-Exists in APID?
-Exists in BIOGRID?
+pfam_interaction, Subcellular Co-localization?, GSE227375_spearman, GSE228702_spearman, Homologous in Mouse, Homologous in Drosophila, Homologous in Yeast, Homologous in Ecoli, Exists in MINT?, Exists in DIP?, Exists in APID?, Exists in BIOGRID?
 ```
 
 The complete feature-calculated datasets contain **67 columns**.
@@ -404,35 +350,7 @@ the EOA classifier identified:
 
 > **479,022 predicted positive interactions**
 
-### Probability Score Distribution
 
-| Statistic | Probability Score |
-|---|---:|
-| Count | 479,022 |
-| Mean | 0.516263 |
-| Standard deviation | 0.004065 |
-| Minimum | 0.502439 |
-| 25th percentile | 0.517073 |
-| Median | 0.517073 |
-| 75th percentile | 0.517073 |
-| Maximum | 0.970732 |
-
-The 25th, 50th, and 75th percentiles were all approximately `0.517073`, indicating strong concentration of predictions around this value.
-
-### `mean_prob_aff` Distribution
-
-| Statistic | mean_prob_aff |
-|---|---:|
-| Count | 479,022 |
-| Mean | 0.458876 |
-| Standard deviation | 0.002052 |
-| Minimum | 0.451872 |
-| 25th percentile | 0.459257 |
-| Median | 0.459257 |
-| 75th percentile | 0.459290 |
-| Maximum | 0.692132 |
-
-The distribution similarly showed strong concentration around approximately `0.459257`.
 
 ### Final Filtering Strategy
 
@@ -698,34 +616,10 @@ with haircut/fluff settings evaluated during clustering.
 | Leiden | Res. 0.05 | 0.310 | 0.424 | 2.677 | 3.731 | 0.553 |
 | GLay | Default | 0.462 | 0.127 | 1.782 | 5.416 | 0.451 |
 
-Leiden at resolution `0.1` achieved the highest Silhouette Coefficient:
-
-```text
-0.595
-```
-
-while MCL granularity 4 achieved a very similar value:
-
-```text
-0.586
-```
-
-and the highest network density among the tested solutions:
-
-```text
-0.741
-```
 
 > [!NOTE]
 > **MCL with granularity 4** was selected for downstream network interpretation because it provided a strong combination of cluster separation and internal network density.
 
-The selected MCL solution generated:
-
-> **83 clusters**
-
-of which:
-
-> **39 clusters contained at least one OP**
 
 ---
 
@@ -955,12 +849,12 @@ bone_EOA_analysis/
 
 # Large Files and Datasets
 
-Large files required for the complete analysis are available separately through Google Drive:
+Large files required for the complete analysis are available separately through the following Google Drive link:
 
-## [Google Drive — Bone Interactome Large Files](PASTE_GOOGLE_DRIVE_FOLDER_LINK_HERE)
+## [Google Drive — Bone Interactome Large Files](https://drive.google.com/drive/folders/1kHUdZrQVWlmVUzE0BSwz7oyl62Y7vfhe?usp=sharing)
 
 > [!WARNING]
-> Large feature matrices, intermediate datasets, the complete STRING reference dataset, selected complete EOA prediction outputs, and the Cytoscape project are intentionally excluded from GitHub.
+> Large feature matrices, intermediate datasets, the complete STRING reference dataset, selected complete EOA prediction outputs, and the Cytoscape project file (that contains the reconstructed network) are excluded from GitHub.
 >
 > Download these files from the Google Drive archive and restore them to the corresponding locations shown below.
 
@@ -1257,5 +1151,7 @@ for GO, protein-group, custom-background, human-background, and CORUM-related en
 # Acknowledgements
 
 The present work has been developed as part of the **REGENERATION project**, funded by the European Union’s Horizon 2020 research and innovation program under the **Marie Sklodowska-Curie RISE (Grant Agreement No. 101131255)**.
+
+![regeneration_logo](image-1.png)
 
 This work was supported by the **Swiss State Secretariat for Education, Research and Innovation (SERI)** under contract number **23.0086**.
