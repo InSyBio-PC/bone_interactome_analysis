@@ -12,9 +12,11 @@ This repository contains the necessary codes and datasets for replicating the co
 > EOA-based PPI prediction, network reconstruction, clustering, network analytics, and functional enrichment.
 >
 > **Part 2 — Molecular Dynamics Analysis**
+Contains molecular dynamics (MD) simulations of the TRAF6 and ANXA3 proteins.
 
 > [!IMPORTANT]
-> Several large datasets and the Cytoscape project file are intentionally excluded from GitHub and are provided separately through Google Drive. See [Large Files and Datasets](#large-files-and-datasets).
+> Several large datasets and the Cytoscape project file are intentionally excluded from GitHub and are provided separately through Zenodo. 
+See [Large Files and Datasets](#large-files-and-datasets).
 
 ---
 
@@ -711,12 +713,12 @@ Examples of significantly enriched clusters include clusters associated with:
 | Dataset | Rows | Description | GitHub |
 |---|---:|---|---|
 | `bone_comb.csv` | 877,501 | Initial OP–human candidate combinations | Included |
-| `bone_PPI_combs_raw.csv` | 877,501 | Raw calculated OP PPI features | Google Drive |
-| `bone_PPI_combs_processed.csv` | 877,501 | Processed OP PPI features | Google Drive |
-| `bone_interactor_combs_raw.csv` | 494,515 | Raw interactor-combination features | Google Drive |
-| `bone_interactor_combs_processed.csv` | 494,515 | Processed interactor-combination features | Google Drive |
-| `stringdb_ppis_curated.csv` | 13,715,404 | Curated STRING DB reference interactions | Google Drive |
-| `bone_ppis_EOA_all_predictions_mapped.csv` | 877,501 | Complete mapped OP PPI predictions | Google Drive |
+| `bone_PPI_combs_raw.csv` | 877,501 | Raw calculated OP PPI features | Zenodo |
+| `bone_PPI_combs_processed.csv` | 877,501 | Processed OP PPI features | Zenodo |
+| `bone_interactor_combs_raw.csv` | 494,515 | Raw interactor-combination features | Zenodo |
+| `bone_interactor_combs_processed.csv` | 494,515 | Processed interactor-combination features | Zenodo |
+| `stringdb_ppis_curated.csv` | 13,715,404 | Curated STRING DB reference interactions | Zenodo |
+| `bone_ppis_EOA_all_predictions_mapped.csv` | 877,501 | Complete mapped OP PPI predictions | Zenodo |
 | `bone_interactor_combs_EOA_all_predictions_mapped.csv` | 494,515 | Complete mapped interactor predictions | Included |
 | `BOTH_FILTER_bone_ppis_EOA_positive_fully_mapped.csv` | 1,079 | Final filtered OP PPIs | Included |
 | `BOTH_FILTER_bone_interactor_combs_EOA_positive_fully_mapped.csv` | 3,284 | Final filtered interactor PPIs | Included |
@@ -791,20 +793,20 @@ bone_EOA_analysis/
 │   │   ├── bone_comb.csv
 │   │   ├── uid_to_Gene_Names.csv
 │   │   ├── irefindex_v3.csv
-│   │   └── stringdb_ppis_curated.csv           [Google Drive]
+│   │   └── stringdb_ppis_curated.csv           [Zenodo]
 │   │
-│   ├── feature_calculated/                     [Google Drive]
+│   ├── feature_calculated/                     [Zenodo]
 │   │   ├── bone_PPI_combs_raw.csv
 │   │   ├── bone_PPI_combs_processed.csv
 │   │   ├── bone_interactor_combs_raw.csv
 │   │   └── bone_interactor_combs_processed.csv
 │   │
-│   ├── intermediate/                           [Google Drive]
+│   ├── intermediate/                           [Zenodo]
 │   │   └── intermediate prediction and mapping datasets
 │   │
 │   └── results/
 │       ├── bone_ppis_EOA_all_predictions_mapped.csv
-│       │                                      [Google Drive]
+│       │                                      [Zenodo]
 │       ├── bone_interactor_combs_EOA_all_predictions_mapped.csv
 │       ├── BOTH_FILTER_bone_ppis_EOA_positive_fully_mapped.csv
 │       ├── BOTH_FILTER_bone_interactor_combs_EOA_positive_fully_mapped.csv
@@ -821,7 +823,7 @@ bone_EOA_analysis/
 │
 └── network_reconstruction/
     │
-    ├── bone_network.cys                        [Google Drive]
+    ├── bone_network.cys                        [Zenodo]
     │
     ├── network figures
     │
@@ -842,23 +844,41 @@ bone_EOA_analysis/
 
 # Part 2 — Molecular Dynamics Analysis
 
-> [!NOTE]
-> **Part 2 — Molecular Dynamics Analysis**
+This dataset contains molecular dynamics (MD) simulations of the TRAF6 and ANXA3 proteins.
+All simulations were performed for 1000 ns (1us) and organized into five independent replicas for each protein-protein system.
+
+Directory Structure
+
+├── TRAF6-ANXA3
+    ├── rep-01
+    ├── rep-02
+    ├── rep-03
+    ├── rep-04
+    └── rep-05
+
+Each rep-XX directory contains:
+*.pdb → Reference structure coordinates
+*.xtc → Compressed MD trajectory file
+
+All trajectories were post-processed using:
+PBC treatment: pbc cluster
+Fitting: rotation + translation (protein)
+Water molecules removed
 
 ---
 
 # Large Files and Datasets
 
-Large files required for the complete analysis are available separately through the following Google Drive link:
+Large files required for the complete analysis are available separately through the following Zenodo repository:
 
-## [Google Drive — Bone Interactome Large Files](https://drive.google.com/drive/folders/1kHUdZrQVWlmVUzE0BSwz7oyl62Y7vfhe?usp=sharing)
+## [Zenodo — Bone Interactome Large Files](https://drive.google.com/drive/folders/1kHUdZrQVWlmVUzE0BSwz7oyl62Y7vfhe?usp=sharing)
 
 > [!WARNING]
 > Large feature matrices, intermediate datasets, the complete STRING reference dataset, selected complete EOA prediction outputs, and the Cytoscape project file (that contains the reconstructed network) are excluded from GitHub.
 >
-> Download these files from the Google Drive archive and restore them to the corresponding locations shown below.
+> Download these files from the Zenodo archive and restore them to the corresponding locations shown below.
 
-### Recommended Google Drive Structure
+### Recommended Zenodo Structure
 
 ```text
 bone_interactome_analysis_large_files/
@@ -884,11 +904,19 @@ bone_interactome_analysis_large_files/
 │       └── bone_network.cys
 │
 └── Part_2_Molecular_Dynamics/
+    │
+    ├── TRAF6-ANXA3
+    ├── rep-01
+    ├── rep-02
+    ├── rep-03
+    ├── rep-04
+    └── rep-05
+
 ```
 
 ### Restore Locations
 
-| Google Drive folder | Repository destination |
+| Zenodo folder | Repository destination |
 |---|---|
 | `Part_1_Bone_EOA/feature_calculated/` | `bone_EOA_analysis/Datasets/feature_calculated/` |
 | `Part_1_Bone_EOA/intermediate/` | `bone_EOA_analysis/Datasets/intermediate/` |
@@ -1141,10 +1169,6 @@ network_reconstruction/MCL_gran_4_cluster_enrichment/
 ```
 
 for GO, protein-group, custom-background, human-background, and CORUM-related enrichment analyses.
-
----
-
-## Part 2 — Molecular Dynamics Analysis
 
 ---
 
