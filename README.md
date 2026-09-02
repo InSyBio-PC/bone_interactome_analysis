@@ -871,7 +871,7 @@ Water molecules removed
 
 Large files required for the complete analysis are available separately through the following Zenodo repository:
 
-## [Zenodo — Bone Interactome Large Files](https://drive.google.com/drive/folders/1kHUdZrQVWlmVUzE0BSwz7oyl62Y7vfhe?usp=sharing)
+## [Zenodo — Bone Interactome Large Files](https://doi.org/10.5281/zenodo.22208451)
 
 > [!WARNING]
 > Large feature matrices, intermediate datasets, the complete STRING reference dataset, selected complete EOA prediction outputs, and the Cytoscape project file (that contains the reconstructed network) are excluded from GitHub.
