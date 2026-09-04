@@ -39,7 +39,7 @@ See [Large Files and Datasets](#large-files-and-datasets).
   - [Part 1 Dataset Summary](#part-1-dataset-summary)
   - [Part 1 Dataset Columns](#part-1-dataset-columns)
   - [Part 1 Repository Structure](#part-1-repository-structure)
-- [Part 2 — amics Analysis](#part-2--molecular-dynamics-analysis)
+- [Part 2 — Molecular Dynamics Analysis](#part-2--molecular-dynamics-analysis)
 - [Large Files and Datasets](#large-files-and-datasets)
 - [Reproducing the Analysis](#reproducing-the-analysis)
 - [Acknowledgements](#acknowledgements)
