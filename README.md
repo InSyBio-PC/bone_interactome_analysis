@@ -39,7 +39,7 @@ See [Large Files and Datasets](#large-files-and-datasets).
   - [Part 1 Dataset Summary](#part-1-dataset-summary)
   - [Part 1 Dataset Columns](#part-1-dataset-columns)
   - [Part 1 Repository Structure](#part-1-repository-structure)
-- [Part 2 — Molecular Dynamics Analysis](#part-2--molecular-dynamics-analysis)
+- [Part 2 — amics Analysis](#part-2--molecular-dynamics-analysis)
 - [Large Files and Datasets](#large-files-and-datasets)
 - [Reproducing the Analysis](#reproducing-the-analysis)
 - [Acknowledgements](#acknowledgements)
@@ -848,6 +848,7 @@ This dataset contains molecular dynamics (MD) simulations of the TRAF6 and ANXA3
 All simulations were performed for 1000 ns (1us) and organized into five independent replicas for each protein-protein system.
 
 Directory Structure
+```text
 
 ├── TRAF6-ANXA3
     ├── rep-01
@@ -855,7 +856,7 @@ Directory Structure
     ├── rep-03
     ├── rep-04
     └── rep-05
-
+```
 Each rep-XX directory contains:
 *.pdb → Reference structure coordinates
 *.xtc → Compressed MD trajectory file
